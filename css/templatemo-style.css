@@ -50,7 +50,7 @@ h1,h2 {
 
 /* images retina */
 img {
-  max-width: 100%;
+  max-width: 95%;
   height: auto;
 }
 
@@ -270,6 +270,8 @@ img {
   width: 100%;
   transition: all 0.4s ease-in;
   opacity: 0.8;
+  margin-top: 10%;
+  margin-bottom: 10%;
 }
 #portfolio img:hover {
   opacity: 1;
